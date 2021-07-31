@@ -109,3 +109,5 @@ failed/*.jpg
 model/*.hdf5
 logs/*
 label.html
+preprocessing.png
+captcha.png
